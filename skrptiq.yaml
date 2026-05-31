@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "24818eef-7e1c-4d64-a4fd-afbd0fa0a4d4"
+name: "synthesise-document-summary"
+display_name: "Summary Synthesis"
+description: "Produces a reader-ready summary with key points, decisions, and action items"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-synthesise-document-summary"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
