@@ -3,7 +3,7 @@ id: "af5e5ca2-0629-48d1-9e3c-fd786c799ea2"
 name: "synthesise-document-summary"
 display_name: "Summary Synthesis"
 description: "Produces a reader-ready summary with key points, decisions, and action items"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
